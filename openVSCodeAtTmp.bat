@@ -1,0 +1,1 @@
+wsl -d "Ubuntu-22.04" code ~/work/prac/memo
